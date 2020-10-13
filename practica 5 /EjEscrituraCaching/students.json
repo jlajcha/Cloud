@@ -1,0 +1,260 @@
+[
+    {
+        "name": "Pearl Thompson",
+        "age": 19,
+        "applicationYear": 2015,
+        "applicationNumber": 1548,
+        "courses": [
+            {
+                "name": "Matematicas I",
+                "mark": 10
+            },
+            {
+                "name": "Matematicas II",
+                "mark": 9
+            }
+        ]
+    },
+    {
+        "name": "Corey Strickland",
+        "age": 31,
+        "applicationYear": 2015,
+        "applicationNumber": 4424,
+        "courses": [
+            {
+                "name": "Matematicas I",
+                "mark": 4
+            },
+            {
+                "name": "Matematicas II",
+                "mark": 4
+            }
+        ]
+    },
+    {
+        "name": "Jeanette Palmer",
+        "age": 28,
+        "applicationYear": 2004,
+        "applicationNumber": 3819,
+        "courses": []
+    },
+    {
+        "name": "Alfred Olson",
+        "age": 33,
+        "applicationYear": 2014,
+        "applicationNumber": 4001,
+        "courses": [
+            {
+                "name": "Matematicas III",
+                "mark": 6
+            },
+            {
+                "name": "Algebra",
+                "mark": 8
+            },
+            {
+                "name": "Programación II",
+                "mark": 8
+            },
+            {
+                "name": "Matematicas I",
+                "mark": 3
+            },
+            {
+                "name": "Redes y Comunicaciones",
+                "mark": 10
+            }
+        ]
+    },
+    {
+        "name": "Edith Henry",
+        "age": 33,
+        "applicationYear": 2015,
+        "applicationNumber": 1343,
+        "courses": [
+            {
+                "name": "Programación I",
+                "mark": 8
+            },
+            {
+                "name": "Redes y Comunicaciones",
+                "mark": 3
+            },
+            {
+                "name": "Programación II",
+                "mark": 4
+            },
+            {
+                "name": "Matematicas II",
+                "mark": 6
+            },
+            {
+                "name": "Matematicas II",
+                "mark": 7
+            }
+        ]
+    },
+    {
+        "name": "Steven Jones",
+        "applicationYear": 2015,
+        "age": 19,
+        "applicationNumber": 4744,
+        "courses": [
+            {
+                "name": "Redes y Comunicaciones",
+                "mark": 7
+            },
+            {
+                "name": "Algebra",
+                "mark": 7
+            },
+            {
+                "name": "Programación II",
+                "mark": 7
+            },
+            {
+                "name": "Programción Funcional",
+                "mark": 7
+            }
+        ]
+    },
+    {
+        "name": "Lida Bennett",
+        "age": 27,
+        "applicationYear": 2014,
+        "applicationNumber": 4000,
+        "courses": [
+            {
+                "name": "Redes y Comunicaciones",
+                "mark": 8
+            },
+            {
+                "name": "Estructura de Datos",
+                "mark": 8
+            },
+            {
+                "name": "Programación I",
+                "mark": 9
+            },
+            {
+                "name": "Programación II",
+                "mark": 8
+            },
+            {
+                "name": "Matematicas III",
+                "mark": 2
+            }
+        ]
+    },
+    {
+        "name": "Antonio Collier",
+        "age": 20,
+        "applicationYear": 2015,
+        "applicationNumber": 3688,
+        "courses": []
+    },
+    {
+        "name": "Hilda Lewis",
+        "age": 26,
+        "applicationYear": 2014,
+        "applicationNumber": 3000,
+        "courses": [
+            {
+                "name": "Programación I",
+                "mark": 7
+            },
+            {
+                "name": "Programación II",
+                "mark": 6
+            },
+            {
+                "name": "Matematicas I",
+                "mark": 10
+            },
+            {
+                "name": "POO",
+                "mark": 9
+            },
+            {
+                "name": "Programción Funcional",
+                "mark": 2
+            },
+            {
+                "name": "Estructura de Datos",
+                "mark": 3
+            },
+            {
+                "name": "POO II",
+                "mark": 9
+            },
+            {
+                "name": "Probabilidad y Estadisticas",
+                "mark": 10
+            },
+            {
+                "name": "Algebra",
+                "mark": 7
+            }
+        ]
+    },
+    {
+        "name": "Phillip Hansen",
+        "age": 23,
+        "applicationYear": 2014,
+        "applicationNumber": 4529,
+        "courses": [
+            {
+                "name": "POO",
+                "mark": 7
+            },
+            {
+                "name": "Programación I",
+                "mark": 10
+            },
+            {
+                "name": "Matematicas II",
+                "mark": 8
+            }
+        ]
+    },
+    {
+        "name": "George Bush",
+        "age": 28,
+        "applicationYear": 2004,
+        "applicationNumber": 666,
+        "courses": [
+            {
+                "name": "POO",
+                "mark": 3
+            },
+            {
+                "name": "Programación I",
+                "mark": 3
+            },
+            {
+                "name": "Matematicas II",
+                "mark": 2
+            }
+        ]
+    },
+    {
+        "name": "Barack Obama",
+        "age": 44,
+        "applicationYear": 2007,
+        "applicationNumber": 777,
+        "courses": [
+            {
+                "name": "POO",
+                "mark": 7
+            },
+            {
+                "name": "Programación I",
+                "mark": 7
+            },
+            {
+                "name": "Matematicas II",
+                "mark": 7
+            }
+        ]
+    }
+]
